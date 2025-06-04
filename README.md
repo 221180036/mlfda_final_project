@@ -1,7 +1,7 @@
-## Attention is you need, but not enough
+## Attention is what you need, but not enough
 该作业分成两个板块：
 
-### 1. Attention is you need
+### 1. Attention is what you need
 该部分完成三个任务： 
 
      1. 模型比较：使用DeepCTR库在 MovieLens 20M Dataset 数据集上对比 Wide&Deep, DeepFM, DIN模型的效果
